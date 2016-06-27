@@ -1,2 +1,4 @@
 Testing Git
 Version #2
+
+After checkout
