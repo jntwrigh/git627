@@ -1,1 +1,1 @@
-﻿dburl=localhost:8080
+﻿dburl=localhost:8080/master
