@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is a brand new file created while in the 
 master branch, but not added or committed..
+=======
+dburl=localhost:8080
+>>>>>>> master
